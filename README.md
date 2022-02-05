@@ -1,2 +1,0 @@
-# lespcgamer
-pcgamers
